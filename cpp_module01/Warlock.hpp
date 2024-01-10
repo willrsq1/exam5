@@ -13,6 +13,9 @@ private:
 
 	std::string		spells_name[5];
 	ASpell *		spells_tab[5];
+
+
+	
 	std::string name;
 	std::string title;
 	Warlock();
